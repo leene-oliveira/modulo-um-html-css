@@ -1,0 +1,21 @@
+.primeiraLista{
+    color: blueviolet;
+}
+
+.segundaLista{
+    color: brown;
+}
+
+#titulo{
+    color: palevioletred
+}
+
+.paragrafo{
+    font-size:15px;
+    font-family: monospace;
+    line-height: 01;
+    border: solid;
+    border-color: brown;
+    border-width: 5px;
+
+}
