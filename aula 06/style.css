@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-left: 10px;
+    width: 100%;
+    background-color: grey;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 16px;
+}
+
+.container-dois {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-left: 10px;
+    width: 100%;
+    background-color: violet;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 16px;
+}
+
+.container-tres {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-left: 10px;
+    width: 100%;
+    background-color: cornflowerblue;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 16px;
+}
+
+.container-sobre{
+    display: flex;
+}
+
+
+.avatar {
+    width: 180px;
+    height: 180px;
+    border-radius: 200px;
+}
+
+
+.sobre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 32px;
+    font-weight: bold;
+}
+
+.nome{
+    font-weight: bold;
+}
+
+.container-descricao{
+    display: flex;    
+}
+    
+.descricao{
+    font-style: oblique;  
+}
+
